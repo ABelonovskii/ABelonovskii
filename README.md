@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Quantum+Optics;Photonics+Research;Neural+Network+Applications;Senior+Software+Engineer;C%23,+Python,+C%2B%2B+Expert;Over+30+Publications;Ph.D.+in+Physics+%26+Mathematics;Light-Matter+Interactions)](https://github.com/Simarglur)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Quantum+Optics;Photonics+Research;Neural+Network+Applications;Developing+Neural+Network+Applications;C%23,+Python,+C%2B%2B)](https://github.com/Simarglur)
 
 </div>
 
