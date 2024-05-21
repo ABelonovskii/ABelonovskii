@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=I+showcase+some+of+my+projects+here;Quantum+Optics;Photonics+Research;Neural+Network+Applications;C%23,+Python,+C%2B%2B)](https://github.com/Simarglur)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=I+showcase+some+of+my+projects+here;Quantum+Optics;Photonics+Research;Neural+Network+Applications)](https://github.com/Simarglur)
 
 </div>
 
