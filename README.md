@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=937CD5&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
@@ -32,19 +32,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
+  <p>I showcase some of my projects here.</p>
+</div>
 
 ###
 
-<p align="left">With a Ph.D. in Physics and Mathematics, I specialize in photonics and quantum optics, contributing to over 30 publications in the field. As a software engineer, I am skilled in C# and Python, and my recent work involves exploring and applying neural networks. Here, I share projects and programs related to photonics and quantum optics and more.</p>
-
-###
-
-<h3 align="left">🛠 Technologies:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,7 +50,27 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Simarglur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simarglur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simarglur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
