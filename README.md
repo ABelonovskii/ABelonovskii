@@ -1,13 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=FF69B4&animation=twinkling&fontAlignY=35"/>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=100&section=header&text=I+showcase+some+of+my+projects+here&fontSize=20&fontColor=FF69B4&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=00BFFF&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Quantum+Optics;Photonics+Research;Neural+Network+Applications;Developing+Neural+Network+Applications;C%23,+Python,+C%2B%2B)](https://github.com/Simarglur)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=I+showcase+some+of+my+projects+here;Quantum+Optics;Photonics+Research;Neural+Network+Applications;Developing+Neural+Network+Applications;C%23,+Python,+C%2B%2B)](https://github.com/Simarglur)
 
 </div>
 
