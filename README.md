@@ -1,3 +1,12 @@
+<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hello 👋 I'm Alexey Belonovski!&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Alexey Belonovski;I'm+32+years+old;I+am+from+Montenegro,+MG;Be+Welcome!🎉)](https://www.linkedin.com/in/aleksei-belonovskii)
+
+</div>
+
+
 <br clear="both">
 
 <h1 align="center">Hello👋 I'm Alexey Belonovski!</h1>
