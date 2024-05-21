@@ -1,7 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=937CD5&animation=twinkling&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Welcome+to+my+GitHub!&fontSize=30&fontColor=FF69B4&animation=twinkling&fontAlignY=35"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=100&section=header&text=I+showcase+some+of+my+projects+here&fontSize=20&fontColor=FF69B4&animation=twinkling&fontAlignY=55"/>
 </div>
 
 <div align="center">
@@ -28,12 +29,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Simarglur.Simarglur&"  />
-</div>
-
-###
-
-<div align="center">
-  <p>I showcase some of my projects here.</p>
 </div>
 
 ###
