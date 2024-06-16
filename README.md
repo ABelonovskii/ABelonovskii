@@ -63,9 +63,13 @@
 <div align="center">
    <br>
    <br>
+   <br>
    <a href="https://simarglur.github.io/opto-transformer-loading-page/" target="_blank">
      <img src="vcsel-transformer-logo.png" alt="VCSEL Parameters Predictor Logo" width="400" />
    </a>
+   <br>
+   <br>
+   <br>
 </div>
 
 ###
