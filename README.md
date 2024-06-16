@@ -67,9 +67,12 @@
    </h3>
    <br>
    <a href="https://simarglur.github.io/opto-transformer-loading-page/" target="_blank">
-     <img src="vcsel-transformer-logo.png" alt="VCSEL Parameters Predictor Logo" width="200" />
+     <img src="vcsel-transformer-logo.png" alt="VCSEL Parameters Predictor Logo" width="400" />
    </a>
 </div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 
 ###
 
