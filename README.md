@@ -61,6 +61,27 @@
 ###
 
 <div align="center">
+   <h3 style="color:#2E2E2E;">Applying Transformer for Laser Parameter Calculation</h3>
+   <br>
+   <img src="https://img.icons8.com/fluency/48/000000/down-arrow.png" alt="Arrow" style="animation: float 2s infinite;">
+   <br>
+   <a href="https://simarglur.github.io/opto-transformer-loading-page/" target="_blank">
+     <img src="vcsel-transformer-logo.png" alt="VCSEL Parameters Predictor Logo" width="200" />
+   </a>
+</div>
+
+<style>
+  @keyframes float {
+    0% { transform: translatey(0px); }
+    50% { transform: translatey(10px); }
+    100% { transform: translatey(0px); }
+  }
+</style>
+
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Simarglur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
