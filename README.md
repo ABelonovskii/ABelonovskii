@@ -61,18 +61,12 @@
 ###
 
 <div align="center">
-   <h3 style="color:#00BFFF; font-size: 24px; font-weight: bold; display: inline; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
-     <i class="fa-solid fa-arrow-right" style="margin-right: 10px; color: #00BFFF;"></i> 
-     Applying Transformer for Laser Parameter Calculation
-   </h3>
+   <br>
    <br>
    <a href="https://simarglur.github.io/opto-transformer-loading-page/" target="_blank">
      <img src="vcsel-transformer-logo.png" alt="VCSEL Parameters Predictor Logo" width="400" />
    </a>
 </div>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 
 ###
 
