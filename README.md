@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Here+are+some+of+my+projects;Quantum+Optics;Photonics+Research;Neural+Network+Applications)](https://github.com/Simarglur)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Here+are+some+of+my+projects;Quantum+Optics;Photonics+Research;Neural+Network+Applications)](https://github.com/ABelonovskii)
 
 </div>
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Simarglur.Simarglur&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ABelonovskii.ABelonovskii&"  />
 </div>
 
 ###
@@ -66,7 +66,7 @@
    <br>
    <br>
    <br>
-   <a href="https://simarglur.github.io/opto-transformer-loading-page/" target="_blank">
+   <a href="https://ABelonovskii.github.io/opto-transformer/" target="_blank">
      <img src="vcsel-transformer-logo.png" alt="VCSEL Parameters Predictor Logo" width="400" />
    </a>
    <br>
@@ -79,14 +79,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Simarglur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ABelonovskii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simarglur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simarglur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABelonovskii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABelonovskii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
